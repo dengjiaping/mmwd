@@ -1,2 +1,5 @@
 .idea/
 app/build/
+local.properties
+*.im
+.DS_Store

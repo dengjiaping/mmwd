@@ -19,7 +19,6 @@ import qfpay.wxshop.data.net.ConstValue;
 import qfpay.wxshop.data.net.DataEngine;
 import qfpay.wxshop.listener.MaijiaxiuUploadListener;
 import qfpay.wxshop.ui.BaseActivity;
-import qfpay.wxshop.ui.main.MainActivity_;
 import qfpay.wxshop.ui.main.MoreActivity;
 import qfpay.wxshop.ui.selectpic.AlbumActivity;
 import qfpay.wxshop.ui.selectpic.ImageGridActivity;

@@ -11,10 +11,6 @@
     <style name="MyCheckBoxSina" parent="@android:style/Widget.CompoundButton.CheckBox">
         <item name="android:button">@drawable/selector_checkbox_sina</item>
     </style>
-    <!-- Application theme. -->
-    <style name="AppTheme" parent="Theme.Sherlock.Light">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
-    </style>
 
     <style name="DataSheetAnimation" parent="@android:style/Animation.Dialog">
         <item name="android:windowEnterAnimation">@anim/push_up_in</item>
@@ -46,7 +42,7 @@
     </style>
 
     <!-- // 自定义dialog -->
-    <style name="MyDialog" parent="@android:Theme.Dialog">
+    <style name="MyDialog" parent="@android:style/Theme.Dialog">
         <item name="android:windowFrame">@null</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowBackground">@android:color/transparent</item>
